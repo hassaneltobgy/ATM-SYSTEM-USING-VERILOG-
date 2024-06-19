@@ -1,0 +1,16 @@
+C:/questasim64_10.7c/examples/projectEDA/Design.v {2 {vlog -work work -vopt -stats=none C:/questasim64_10.7c/examples/projectEDA/Design.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module Design
+** Warning: C:/questasim64_10.7c/examples/projectEDA/Design.v(114): (vlog-2182) 'balance' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	Design
+
+} {} {}} C:/questasim64_10.7c/examples/projectEDA/Design_tb.v {1 {vlog -work work -vopt -stats=none C:/questasim64_10.7c/examples/projectEDA/Design_tb.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module Design_tb
+
+Top level modules:
+	Design_tb
+
+} {} {}}

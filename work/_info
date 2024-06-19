@@ -1,0 +1,66 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.7c/examples/projectEDA5
+T_opt
+!s110 1671208379
+Vm<YF8XlP1HHhLKonMfAzL3
+04 9 4 work Design_tb fast 0
+=1-5405db103aae-639c9dba-d9-7368
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vDesign
+Z2 !s110 1671223815
+!i10b 1
+!s100 [3d>?AV]j4KDGaV01iG6m3
+IdQdIA8;AJXEX6iYGfoDUN2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/questasim64_10.7c/examples/projectEDA
+w1671199398
+8Design.v
+FDesign.v
+L0 1
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1671223815.000000
+!s107 Design_tb.v|Design.v|
+Z7 !s90 -reportprogress|300|Design.v|Design_tb.v|+cover|-covercells|
+!i113 0
+Z8 !s102 +cover -covercells
+Z9 o+cover -covercells -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@design
+vDesign_tb
+R2
+!i10b 1
+!s100 >hAS@U[gbm^A?;Tl0FJaA3
+IV[0EbYQ_AadS8eDWdn];H0
+R3
+R4
+w1671199400
+8Design_tb.v
+FDesign_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 Design_tb.v|Design.v|
+R7
+!i113 0
+R8
+R9
+R1
+n@design_tb

@@ -1,0 +1,28 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: Design.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                          146       128        18     87.67
+    Branches                        77        64        13     83.11
+    FEC Condition Terms             16        10         6     62.50
+    FSMs                                                       88.23
+        States                      14        14         0    100.00
+        Transitions                 34        26         8     76.47
+    Toggle Bins                    114       113         1     99.12
+
+=================================================================================
+=== File: Design_tb.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                          176       176         0    100.00
+    Toggle Bins                    280       178       102     63.57
+
+
+TOTAL ASSERTION COVERAGE: 92.85%  ASSERTIONS: 14
+
+Total Coverage By File (code coverage only, filtered view): 80.42%
+
